@@ -1,0 +1,5 @@
+log/*.log
+coverage
+tmp
+.DS_Store
+tags

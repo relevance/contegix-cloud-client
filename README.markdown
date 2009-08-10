@@ -1,6 +1,6 @@
-# Kronos : Contegix Cloud API Examples
+# Contegix Cloud API: client reference implentation
 
-http://www.contegix.com/solutions/cloud-hosting.php
+See http://www.contegix.com/solutions/cloud-hosting.php for more information on the Contegix Cloud.
 
 ## Initial Setup 
 
